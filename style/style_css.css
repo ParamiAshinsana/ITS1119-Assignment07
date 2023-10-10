@@ -55,6 +55,10 @@ section {
 }
 #invoice_btn{
     background-color: #d0d0d0;
+    text-decoration: none;
+}
+.invoice_class{
+    text-decoration: none;
 }
 .navi_front{
     font-size: 25px;
